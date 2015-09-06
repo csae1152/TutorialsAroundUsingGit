@@ -11,5 +11,7 @@ Interactive Rebase with IntelliJ and SourceTree:
 
 Let's talk about how to do it within IntelliJ. I think it's the better choice to do it.
 
+Let's work together - SVN and GIT
+
 
 
