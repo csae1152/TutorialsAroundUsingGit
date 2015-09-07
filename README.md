@@ -13,5 +13,7 @@ Let's talk about how to do it within IntelliJ. I think it's the better choice to
 
 Let's work together - SVN and GIT
 
+ - Setting up a GIT project out of an existing SVN repository.
+
 
 
